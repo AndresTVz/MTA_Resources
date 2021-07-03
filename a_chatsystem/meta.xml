@@ -1,0 +1,4 @@
+<meta>
+	<info author="AndresTVz" type="script" name="a_chatsystem" version="0.1.1" />
+	<script src="server.lua" type="server" />
+</meta>
