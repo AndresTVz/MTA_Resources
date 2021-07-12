@@ -1,0 +1,6 @@
+<meta>
+	<info author="AndresTVz" type="script" name="notifications" version="0.1.0" />
+	<script src="client.lua" type="client" />
+	<file src="img/edge.png"/>
+	<file src="img/startedge.png"/>
+</meta>
