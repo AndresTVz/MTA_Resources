@@ -1,0 +1,7 @@
+<meta>
+	<info author="AndresTVz" type="script" name="Login Panel" version="0.1.0" />
+
+	
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+</meta>
