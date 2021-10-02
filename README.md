@@ -15,6 +15,6 @@ Also you can join to my Discord Server ( https://discord.gg/VY4XBjJ7Sz )
 
 
 ## Scripts Checks
-* [Login Panel. ( sketch and run )](/tree/main/_LoginPane(old))
-* [Notification system](/tree/main/_Notifications)
-* [Chat system](/tree/main/a_chatsystem)
+* [Login Panel. ( sketch and run )](https://github.com/AndresTVz/MTA_Resources/tree/main/_LoginPane(old))
+* [Notification system](https://github.com/AndresTVz/MTA_Resources/tree/main/_Notifications)
+* [Chat system](https://github.com/AndresTVz/MTA_Resources/tree/main/a_chatsystem)
